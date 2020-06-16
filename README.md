@@ -1,2 +1,3 @@
 # LearnFlutter
-A crowd sourced Flutter learning platform of PIYSocial Members.
+- A crowd sourced Flutter learning platform of PIYSocial Members.
+------

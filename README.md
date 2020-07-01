@@ -7,6 +7,11 @@
 - Download **Flutter**. [Click Here](https://storage.googleapis.com/flutter_infra/releases/stable/windows/flutter_windows_1.17.4-stable.zip)
 - If you don't have **Git** then download the Git. [Click Here](https://git-scm.com/download/win).
 - Extract the **Zipped file** to `C:\src\flutter` .
+- Path:
+    - For setting the path first search `environment` in your search bar in PC. Open the window.
+    - Now go to `Environment Variables`.
+    - Click on `PATH` and `EDIT`.
+    - Now click on `NEW` and add the bin folder of Flutter (bin folder is inside the Flutter) : `C:\src\flutter\flutter\bin`. (It have be `C:\src\flutter\bin` if you have pasted the Flutter folder in your `src` directory under Local Disk C.
 ------
 ## CodeLabs 👩‍💻
 ### Write your first Flutter app, part 1
